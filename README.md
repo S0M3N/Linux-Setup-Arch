@@ -1,6 +1,6 @@
 # Arch Based Distro Programmer Setup
 
-Here is a bash file which will help you to setup your linux (ARCH Based | Not for default Arch, that will come soon) for programming.
+Here is a bash file which will help you to setup your linux (ARCH Based / Not for default Arch, that will come soon) for programming.
 
 Basically it installs Python2 and 3, Java, C/C++ compiler, important python modules, VS Code installation.
 
