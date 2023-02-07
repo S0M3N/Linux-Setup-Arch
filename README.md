@@ -31,5 +31,5 @@ Don't Forget to star this repo. Any type of further changes or raise of issue is
 
 ## License
 
-This project is under [MIT](https://github.com/S0M3N/Linux-Setup-Arch/blob/main/LICENSE) License so any type of opensource help is appreciated.
+This project is under [MIT](https://github.com/S0M3N/Linux-Setup-Arch/blob/main/LICENSE.md) License so any type of opensource help is appreciated.
 
