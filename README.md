@@ -29,6 +29,20 @@ I also have a setup for
 
 Don't Forget to star this repo. Any type of further changes or raise of issue is appreciated. 
 
+### Most Popular Arch-based Distributions:
+
+1. *Manjaro Linux:*
+   - Website: [Manjaro.org](https://manjaro.org/)
+   - Download: [Manjaro Download](https://manjaro.org/download/)
+
+2. *EndeavourOS:*
+   - Website: [EndeavourOS.com](https://endeavouros.com/)
+   - Download: [EndeavourOS Download](https://endeavouros.com/download/)
+
+3. *ArcoLinux:*
+   - Website: [ArcoLinux.info](https://arcolinux.info/)
+   - Download: [ArcoLinux Download](https://arcolinux.info/download/)
+
 ## License
 
 This project is under [MIT](https://github.com/S0M3N/Linux-Setup-Arch/blob/main/LICENSE.md) License so any type of opensource help is appreciated.
